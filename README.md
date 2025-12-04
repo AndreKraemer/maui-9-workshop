@@ -1,4 +1,4 @@
-# .NET MAUI Workshop: Real-World-App-Entwicklung mit .NET MAUI 9
+# .NET MAUI Workshop: Real-World-App-Entwicklung mit .NET MAUI 10
 
 Dies ist das Repository für den **[Veranstaltung] Workshop** Workshop `[Titel]`.
 
@@ -23,11 +23,11 @@ In jedem Branch gibt es die Datei [lab.md](lab.md). Diese Datei beinhaltet die A
 ## Installation
 
 1. Um die Dateien nutzen zu können, müssen Sie folgendes installiert haben:
-   - [Visual Studio 2022](https://visualstudio.microsoft.com/de/downloads/), Version 17.12.0 oder höher, inklusive des Workloads .NET Multi-Platform App UI-Entwicklung.
+   - [Visual Studio 2025](https://visualstudio.microsoft.com/de/downloads/), Version 18.0.2 oder höher, inklusive des Workloads .NET Multi-Platform App UI-Entwicklung.
    - Die Beispiele können mit jeder verfügbaren Edition (Community, Professional, Enterprise) bearbeitet werden.
-   - Falls Sie über einen Mac verfügen, dann müssen Sie dort [.NET 9](https://dotnet.microsoft.com/en-us/download), [Visual Studio Code](https://code.visualstudio.com/) und XCode installieren.
+   - Falls Sie über einen Mac verfügen, dann müssen Sie dort [.NET 10](https://dotnet.microsoft.com/en-us/download), [Visual Studio Code](https://code.visualstudio.com/) und XCode installieren.
    - Alternativ können Sie auch [Jetbrains Rider](https://www.jetbrains.com/de-de/rider/) als IDE nutzen.
-   - Eine detaillierte Installationsanleitung finden Sie [hier für Windows](https://learn.microsoft.com/de-de/dotnet/maui/get-started/installation?view=net-maui-9.0&tabs=vswin) und [hier für macOS und Linux](https://learn.microsoft.com/de-de/dotnet/maui/get-started/installation?view=net-maui-9.0&tabs=visual-studio-code)
+   - Eine detaillierte Installationsanleitung finden Sie [hier für Windows](https://learn.microsoft.com/de-de/dotnet/maui/get-started/installation?view=net-maui-10.0&tabs=vswin) und [hier für macOS und Linux](https://learn.microsoft.com/de-de/dotnet/maui/get-started/installation?view=net-maui-10.0&tabs=visual-studio-code)
 2. Klonen Sie das mit Visual Studio oder einem anderen Git-Client auf Ihren lokalen Rechner.
 3. Um Ihre App auch für iOS zu kompilieren, benötigen Sie einen Mac. Ohne Mac können Sie dem Training zwar komplett folgen, aber nur die Android- und Windows-App kompilieren.
 
@@ -62,6 +62,6 @@ In jedem Branch gibt es die Datei [lab.md](lab.md). Diese Datei beinhaltet die A
 - [Mein .NET-MAUI-Buch (1. Auflage zu .NET MAUI 6)](https://www.amazon.de/Cross-Plattform-Apps-NET-MAUI-entwickeln-programmieren/dp/3446472614)
 - [Leseprobe zum .NET-MAUI-Buch (1. Auflage)](https://files.hanser.de/Files/Article/ARTK_LPR_9783446472617_0001.pdf)
 - [Mein Xamarin.Forms-Buch](https://www.hanser-kundencenter.de/fachbuch/artikel/9783446451551)
-- [Schulung zu .NET MAUI](https://www.andrekraemer.de/training/app-entwicklung/cross-plattform-apps-mit-net-maui-entwickeln/)
+- [Schulung zu .NET MAUI](https://andrekraemer.de/trainings/cross-plattform-apps-mit-net-maui-entwickeln/)
 - [App-Entwicklung durch die Quality Bytes GmbH](https://qualitybytes.de/services/mobile-apps/)
 - [Kostenfreies Whitepaper zum Thema Migration von Xamarin.Forms zu .NET MAUI](https://qualitybytes.de/maui-migration)
